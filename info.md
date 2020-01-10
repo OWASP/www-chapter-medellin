@@ -1,6 +1,6 @@
-<!--### Chapter Information
-* Chapter Region
+### Chapter Information
+* Latin America
+* Medellin
 
 ### Social Links
-* [Meetup](#)
-* [Social Link](#)-->
+* [Meetup](https://www.meetup.com/es/OWASP-Medellin-Chapter/)
