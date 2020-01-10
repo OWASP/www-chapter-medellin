@@ -6,6 +6,6 @@ order: 1
 tags: example-tag
 ---
 
-# Proximos Eventos
+## Proximos Eventos
 
 Este 2020 esperamos llegar mas cargados de hacking para compartir con toda la comunidad.
