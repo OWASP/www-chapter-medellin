@@ -7,5 +7,7 @@ order: 3
 tags: Medellin
 ---
 
-# Resumen 2020
+## Proximos Eventos
+
+Preparado para nuestro proximos eventos.
 
