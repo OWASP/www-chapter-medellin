@@ -15,6 +15,3 @@ El capitulo de OWASP medellin ha sido reactivado desde el 2019, estamos emociona
 
 Si eres apasionado por la seguridad y estas interesado en compartir tus conocimientos, escribemos podrias ser un futuro referente en seguridad hispano-parlante, solo debes empezar por algun lugar; Nuestro capitulo de medellin podria ser un buen comienzo. !Te Esperamos!
 
-
-## Nuestra Comunidad
-![Evento 2019](./assets/images/img_20190829_182948.jpg)
