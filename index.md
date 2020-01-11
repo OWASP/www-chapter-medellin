@@ -5,11 +5,11 @@ title: OWASP Medellin
 tags: Medellin
 level: 0
 
-region: Latin America
+region: South America
 
 
 ---
-![Patagonia](assets/images/logo.png)
+![Medellin](assets/images/logo.png)
 
 El capitulo de OWASP medellin ha sido reactivado desde el 2019, estamos emocionados de poder compartir y ayudar a crecer a la comunidad, cualquier duda o inquietud no dudes en comunicarte con nosotros.
 
