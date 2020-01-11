@@ -1,6 +1,6 @@
 ---
 
-title: Lo Nuevo
+title: Noticias
 layout: null
 tab: true
 order: 1
