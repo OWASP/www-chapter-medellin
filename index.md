@@ -18,4 +18,4 @@ Si eres apasionado por la seguridad y estas interesado en compartir tus conocimi
 
 ## Nuestra Comunidad
 | ![Evento 2019](./assets/images/img_20190829_182948.jpg) | ![Evento 2019](./assets/images/img_20190829_193711.jpg) |
-| :---  
+| :---                                                    |                                                    ---: |
