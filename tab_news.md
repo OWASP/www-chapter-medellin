@@ -9,4 +9,5 @@ tags: Medellin
 
 ## Proximos Eventos
 
-Preparado para nuestro proximos eventos...
+Preparado para nuestro proximos eventos.
+
