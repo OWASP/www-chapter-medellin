@@ -2,12 +2,11 @@
 
 layout: col-sidebar
 title: OWASP Medellin
-tags: example-tag
+tags: Medellin
 level: 0
 
 region: Latin America
 
-auto-migrated: 1
 
 ---
 
