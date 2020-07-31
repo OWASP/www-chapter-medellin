@@ -7,6 +7,9 @@ level: 0
 
 region: South America
 
+meetup-group: OWASP-Medellin-Chapter
+country: Colombia
+postal-code: 
 
 ---
 ![Medellin](assets/images/logo.png)
