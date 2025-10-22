@@ -1,0 +1,23 @@
+leaders:
+  - name: Andres Roldan
+    email: andres.roldan@owasp.org
+  - name: Rafael Alvarez
+    email: rafael.alvarez@owasp.org
+location:
+  country: Colombia
+  country_code: CO
+  region: Antioquia
+  city: Medellín
+  latitude: 6.2443382
+  longitude: -75.573553
+meetup_group: OWASP-Medellin-Chapter
+name: OWASP Medellin
+repositories:
+  - name: www-chapter-medellin
+    url: https://github.com/OWASP/www-chapter-medellin
+    description: OWASP Foundation Web Repository
+tags:
+  - Medellin
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-medellin
